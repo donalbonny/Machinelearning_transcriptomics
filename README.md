@@ -6,3 +6,5 @@ Applying Machine learning and statistical methods in gene regulatory network ana
 2. [Machine learning with microarray data](http://ftp.cs.wisc.edu/machine-learning/shavlik-group/molla.aimag04.pdf)
 3. [Computational prediction of gene regulatory networks in plant growth and development](https://www.sciencedirect.com/science/article/pii/S1369526618300839#fig0005)
 4. [Statistical analysis and visualization of functional profiles for genes and gene clusters](http://bioconductor.org/packages/release/bioc/vignettes/clusterProfiler/inst/doc/clusterProfiler.html#visualization-of-profile-comparison)
+5. [Tree based ML algorithmn for gene regulatory network using RNA-seq data](https://bioconductor.org/packages/release/bioc/vignettes/GENIE3/inst/doc/GENIE3.html)
+
